@@ -132,3 +132,25 @@ figure {
 figcaption {
     align-self: flex-end;
 }
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+}
+.container-four {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+}
+h4,
+.small-text {
+    margin: 0;
+}
+.button-two {
+    border: 2px solid #E5E7EB;
+}
