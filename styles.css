@@ -3,9 +3,11 @@ body {
     padding: 0;
     margin: 0;
 }
-
-.section-one {
+.section-one,
+footer {
     background-color: #1F2937;
+}
+.section-one {
     padding: 16px;
     display: flex;
     flex-direction: column;
@@ -153,4 +155,11 @@ h4,
 }
 .button-two {
     border: 2px solid #E5E7EB;
+}
+footer {
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
 }
