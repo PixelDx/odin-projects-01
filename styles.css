@@ -108,3 +108,27 @@ button {
     height: 175px;
     border-radius: 8px;
 }
+.section-three {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: px;
+}
+blockquote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    width: 900px;
+}
+blockquote,
+.quote {
+    margin: 0;
+}
+figure {
+    display: flex;
+    flex-direction: column;
+    margin: 88px 0;
+}
+figcaption {
+    align-self: flex-end;
+}
